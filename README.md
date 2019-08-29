@@ -16,7 +16,7 @@ Sandbox Package URL: https://test.salesforce.com/packaging/installPackage.apexp?
 
 1) Enable content in your org
 2) Create a library and name it whatever you want
-3) Add the permission set: "PDFtoVFP_Converter_Access" to the users you want to have access to the converter
+3) Add the permission set: "PDFtoVFP_Converter_Access" to the users you want to have access to the converter and make sure they have the "Salesforce CRM Content User" checkbox checked on their user.
 4) Add the users you want to generate pdfs to the content library you created in step 2 as Library Administrators
 5) Go to Setup -> Custom Settings -> PDF to VFP Settings -> Manage
 6) Create new at the custom setting Hierarchy level
