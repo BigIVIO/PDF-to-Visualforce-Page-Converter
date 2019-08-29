@@ -6,9 +6,9 @@ This stand alone Salesforce application takes any size PDF file and with the cli
 easy to use UI. 
 It can be configured to be run by any user as a loop hole has been implemented to bypass the limitations of the Tooling API.</h4>
 
-<p><b><i>Production Package URL: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1H000000KOwG
+<p><b><i>Production Package URL: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1H000000KOwB
 
-Sandbox Package URL: https://test.salesforce.com/packaging/installPackage.apexp?p0=04t1H000000KOwG</i></b></p>
+Sandbox Package URL: https://test.salesforce.com/packaging/installPackage.apexp?p0=04t1H000000KOwB</i></b></p>
 
 <b><i>Video Demo of the PDF to VFP converter: https://www.youtube.com/watch?v=oHg2KfSI9ws</i></b>
 
