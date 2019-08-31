@@ -34,7 +34,7 @@ Typically that looks something like this:
 16) Go to Setup -> Remote Site Settings and edit the PDFtoVFP_Metadata_API
 17) Change the url to your orgs url minus your namespace (if you have a namespace, most orgs probably do not have a namespace)
 18) Go to Setup -> Remote Site Settings and edit the PDFtoVFP_ToolingAPI
-19) Change the url to your orgs url for visual for pages. This is typically formatted the following way https://[namespace].[server or domain].visual.force.com
+19) Change the url to your orgs url for visual for pages. This is typically formatted the following way https://[namespace]—-gauto.[server or domain].visual.force.com
 
 
 <b><i><u>These steps are only necessary if non-admins are going to be utilizing the converter app so that they can "fake" access to the Tooling API:</u></b></i>
